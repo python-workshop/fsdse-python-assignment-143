@@ -1,4 +1,4 @@
-# Implement a binary search tree
+# Implement a binary search tree with an insert method.
 
 ## Constraints
 
